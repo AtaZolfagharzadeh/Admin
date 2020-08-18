@@ -1,3 +1,7 @@
+.section {
+    display: hidden;
+}
+
 .loader {
     position: absolute;
     top: 50%;
